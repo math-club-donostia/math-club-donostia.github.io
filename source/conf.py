@@ -124,14 +124,11 @@ pygments_style = 'sphinx'
 
 html_theme = 'sphinx_rtd_theme'
 #html_favicon = 'imag/logo/...'
-#html_logo = 'imag/logo/...'
+html_logo = 'imag/title.svg'
 html_show_sourcelink = False
 
 #nbsphinx_allow_errors = True
 
-
-red='#a00000'
-green='#008880'
 
 html_theme_options = {
     'canonical_url': '',

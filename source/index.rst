@@ -9,8 +9,25 @@
 
 |
 
-What we do
-++++++++++
+====================
+Introduction
+====================
+
+
+What we aim to do
+++++++++++++++++++
+
+When I was at my school age in Siberia I enjoyed participating in Olympiads in Mathematics and Physics.
+In Russia, enthusiastic teachers are gathering talented children in math clubs (usually held on weekends,
+and therefore called "Sunday [mathematical] schools". There are also summer mathematical camps implemented both
+on regional and national level. Some of such activities are also implemented in :ref:`Spain <sec-olyspain>`,
+but unfortunately not much in the Basque Country
+
+We plan to organize regular meetings to solve tricky (olympiad-style) mathematical problems.
+The difficulty level is adjusted individually to each participants.
+
+Our Goals are
+---------------
 
 * Have fun with math!
 * Develop creativity and non-standard thinking
@@ -21,10 +38,10 @@ What we do
 Teachers
 ++++++++
 
-Lead by Stepan Tsirkin, PhD in Physics, Ikerbasque Research Fellow at CFM.
+Lead by |stepan|, PhD in Physics, Ikerbasque Research Fellow at CFM.
 
 Other researchers scientific researchers may also join.
-If you feel capable to be a teacher (assistant) fill the |register|
+If you feel capable consider becoming a teacher or teaching assistant : |register|
 
 Languages
 ++++++++++
@@ -36,8 +53,7 @@ We aim to build an international multi-language community.
 Age of participants
 +++++++++++++++++++++
 
-We mainly focus on the age group from 8 to 18 years, but slightly younger or older participants may also join.
-
+We mainly focus on the age group from 8 to 18, but slightly younger participants may also join.
 
 Time and place
 +++++++++++++++
@@ -48,17 +64,26 @@ Registration
 +++++++++++++
 
 If you are interested, please fill the |register|, providing your contact details and convenient time.
-You will we informed when the classes start.
+You will be informed when the classes start.
+
+There is no selection process,  Everyone is welcome.
 Participation is free.
 
 What we are not
 +++++++++++++++++
 
-We are not a math reinforcement class 
+We are NOT a math reinforcement class. We do not re-explain school math, we go beyond its limits.
 
 .. toctree::
    :maxdepth: 3
    :hidden:
 
+   self
+   olympiads
+   about_me
+
+
 
 .. |register|  replace:: `Registration form <https://docs.google.com/forms/d/e/1FAIpQLSew5SLLOYwAfc82yxMU3IjW1-LVp3_Dir9e3roSErbGXRT6Sg/viewform?usp=sf_link>`__
+
+.. |stepan| replace:: Stepan Tsirkin
