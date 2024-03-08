@@ -1,7 +1,6 @@
 .. title:: Math Club Donostia
 
 
-
 .. image:: imag/title.svg
     :width: 700px
     :alt: Wannier Berri

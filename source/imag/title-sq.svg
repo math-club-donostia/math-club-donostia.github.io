@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="63.319012mm"
+   height="25.262352mm"
+   viewBox="0 0 63.319013 25.262352"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="319.95029"
+       y="146.17566"
+       width="216.85278"
+       height="70.642738"
+       id="rect11928" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-60.443008,-61.656059)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.7"
+       id="rect28030"
+       width="63.319012"
+       height="25.262352"
+       x="60.443008"
+       y="61.656059"
+       ry="2.9423134" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:dsrom10;-inkscape-font-specification:dsrom10;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="92.135506"
+       y="71.842369"
+       id="text5614"><tspan
+         id="tspan5612"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:dsrom10;-inkscape-font-specification:dsrom10;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="92.135506"
+         y="71.842369">Math Club</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:dsrom10;-inkscape-font-specification:dsrom10;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="92.135506"
+         y="85.497307"
+         id="tspan5616">Donostia</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,32.537078,44.641958)"
+       id="text11926"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11928);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="12.675662mm"
+   height="11.102077mm"
+   viewBox="0 0 12.675662 11.102077"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="319.95029"
+       y="146.17566"
+       width="216.85278"
+       height="70.642738"
+       id="rect11928" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-85.74713,-62.571848)">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.60781;stroke-opacity:1"
+       id="path34587"
+       cx="92.084961"
+       cy="68.122887"
+       rx="6.337831"
+       ry="5.5510387" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:dsrom10;-inkscape-font-specification:dsrom10;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="92.135506"
+       y="71.842369"
+       id="text5614"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:dsrom10;-inkscape-font-specification:dsrom10;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="92.135506"
+         y="71.842369"
+         id="tspan5616">M</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,32.537078,44.641958)"
+       id="text11926"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11928);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
