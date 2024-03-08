@@ -17,14 +17,15 @@ Introduction
 What we aim to do
 ++++++++++++++++++
 
+We plan to organize regular meetings (around 2 hours weekly) to solve tricky (olympiad-style) mathematical problems,
+talk about mathematics beyond the school program, etc. The difficulty level (and language, upon possibility)
+is adjusted individually to each participant.
+
 When I was at my school age in Siberia I enjoyed participating in Olympiads in Mathematics and Physics.
 In Russia, enthusiastic teachers are gathering talented children in math clubs (usually held on weekends,
 and therefore called "Sunday [mathematical] schools". There are also summer mathematical camps implemented both
 on regional and national level. Some of such activities are also implemented in :ref:`Spain <sec-olyspain>`,
-but unfortunately not much in the Basque Country
-
-We plan to organize regular meetings to solve tricky (olympiad-style) mathematical problems.
-The difficulty level is adjusted individually to each participants.
+but unfortunately not much in the Basque Country. So let's launch such activity.
 
 Our Goals are
 ---------------
@@ -38,9 +39,10 @@ Our Goals are
 Teachers
 ++++++++
 
-Lead by |stepan|, PhD in Physics, Ikerbasque Research Fellow at CFM.
+Lead by :ref:`Stepan Tsirkin <sec-stepan>`, PhD in Physics, Ikerbasque Research Fellow at CFM.
 
 Other researchers scientific researchers may also join.
+
 If you feel capable consider becoming a teacher or teaching assistant : |register|
 
 Languages
@@ -58,7 +60,7 @@ We mainly focus on the age group from 8 to 18, but slightly younger participants
 Time and place
 +++++++++++++++
 
-To be defined..
+Will be defined depending the number of interested participants and their preferred time. Please, fill the |register|
 
 Registration
 +++++++++++++
@@ -66,17 +68,26 @@ Registration
 If you are interested, please fill the |register|, providing your contact details and convenient time.
 You will be informed when the classes start.
 
-There is no selection process,  Everyone is welcome.
-Participation is free.
+There is no selection process,  everyone is welcome.
+Participation is free. But we hope for the help of volunteers to make this event unforgettable,
+so parents may register as helpers.
 
 What we are not
 +++++++++++++++++
 
 We are NOT a math reinforcement class. We do not re-explain school math, we go beyond its limits.
 
+Contact
++++++++++
+
+:email:`mathclubdonostia@gmail.com`
+
+
+Index
+++++++
+
 .. toctree::
    :maxdepth: 3
-   :hidden:
 
    self
    olympiads
@@ -85,5 +96,3 @@ We are NOT a math reinforcement class. We do not re-explain school math, we go b
 
 
 .. |register|  replace:: `Registration form <https://docs.google.com/forms/d/e/1FAIpQLSew5SLLOYwAfc82yxMU3IjW1-LVp3_Dir9e3roSErbGXRT6Sg/viewform?usp=sf_link>`__
-
-.. |stepan| replace:: Stepan Tsirkin

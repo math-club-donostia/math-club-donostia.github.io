@@ -13,7 +13,7 @@ Unfortunately, Math-olympic movement in Spain is more limited, however there are
 * `Olimpiada Matemática Española <https://www.rsme.es/olimpiada-matematica-espanola/>`__  - for the older students , ca 18 y.o
 * Olimpiada matemática de Euskadi `"Eduardo Chillida" <https://sites.google.com/view/olinpiadachillida/>`__ for 2º de ESO
 * Olimpiada Nacional `Junior <https://fespm.es/index.php/2023/07/01/2023-tenerife/>`__ for 2º de ESO
-* International `Canguro <https://canguromat.es/>`__  Olympiads
+* International `Canguro <https://canguromat.es/>`__  Olympiads for ESO and Bachillerato.
 
 Among the activities in Spain, similar to our club:
 

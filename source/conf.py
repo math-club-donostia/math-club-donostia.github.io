@@ -33,6 +33,7 @@ numfig = True
 extensions = [
     'sphinx.ext.autodoc', 'sphinx.ext.mathjax', 'sphinx.ext.intersphinx',
     'sphinx.ext.viewcode', 'sphinx_pyreverse' , 'sphinx_sitemap' , 'sphinx.ext.napoleon',
+    'sphinxcontrib.email',
 #    'sphinxcontrib.bibtex'
 #    'nbsphinx',
 ]
@@ -57,6 +58,7 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
+email_automode = True
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -123,8 +125,8 @@ pygments_style = 'sphinx'
 #html_theme_path = [sphinx_pdj_theme.get_html_theme_path()]
 
 html_theme = 'sphinx_rtd_theme'
-#html_favicon = 'imag/logo/...'
-html_logo = 'imag/title.svg'
+html_favicon = 'imag/favicon.svg'
+html_logo = 'imag/title-sq.svg'
 html_show_sourcelink = False
 
 #nbsphinx_allow_errors = True
