@@ -91,6 +91,7 @@ Index
    self
    olympiads
    about_me
+   videos
 
 
 
