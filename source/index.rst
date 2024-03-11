@@ -90,8 +90,10 @@ Index
 
    self
    olympiads
+   problems
    about_me
    videos
+
 
 
 
