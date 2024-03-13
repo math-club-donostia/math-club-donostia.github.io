@@ -61,16 +61,6 @@ Time and place
 
 Will be defined depending the number of interested participants and their preferred time. Please, fill the |register|
 
-Registration
-+++++++++++++
-
-If you are interested, please fill the |register|, providing your contact details and convenient time.
-You will be informed when the classes start.
-
-There is no selection process,  everyone is welcome.
-Participation is free. But we hope for the help of volunteers to make this event unforgettable,
-so parents may register as helpers.
-
 What we are not
 +++++++++++++++++
 
@@ -89,6 +79,7 @@ Index
    :maxdepth: 3
 
    self
+   registration
    olympiads
    problems
    about_me

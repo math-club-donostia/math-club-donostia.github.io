@@ -48,8 +48,7 @@ here are some resources to get mathematical problems
     - https://www.estalmatgalicia.com/problemas-das-probas
 
 
-
-Other Olympiads in English
+* Other Olympiads in English
 
     - https://www.internationalolympiadacademy.com/olympiads/hippo-english-olympiad
 
