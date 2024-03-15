@@ -59,7 +59,12 @@ We mainly focus on the age group from 8 to 18, but slightly younger participants
 Time and place
 +++++++++++++++
 
-Will be defined depending the number of interested participants and their preferred time. Please, fill the |register|
+Donostia International Physics Center (DIPC)  `map <https://maps.app.goo.gl/gQCwwBtMxdog811S8>`__
+
+First session will take place on Sunday, March 17th, from 11h to 14h.
+Further sessions will be announced via email to registered participants.
+
+Please whitelist the email :email:`mathclubdonostia@gmail.com` to make sure the messages are not filtered to spam.
 
 What we are not
 +++++++++++++++++
