@@ -9,6 +9,8 @@ here are some resources to get mathematical problems
 
     - Spanish : https://canguromat.es/# (ESO only)
 
+    - Costa Rica : http://www.cangurocr.org/examenes (all ages, Spanish and English))
+
     - Russian https://ipokengu.ru/konkurs-kenguru/zadachi.html (from 1st school year, i.e. 7 y.o.)
 
     - English (Canadian) https://mathkangaroo.ca/samples/en (from 1st school year), also has a
@@ -55,9 +57,12 @@ here are some resources to get mathematical problems
     - https://ukmt.org.uk/current-past-papers
 
 * in Russian
+
     - https://olimpiada.ru/activity/72/tasks
     - https://info.olimpiada.ru/intro/math
     - https://olimpiada.ru/activities
     - https://rsr-olymp.ru/
     - https://sesc.nsu.ru/olymp-vsesib/sections/maths/
+    - https://rmomatematik.jimdofree.com/%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%BD%D0%BE%D0%B5-%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/
+    - https://problems.ru
 

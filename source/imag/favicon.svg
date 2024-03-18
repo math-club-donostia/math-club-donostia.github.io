@@ -2,13 +2,36 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="12.675662mm"
-   height="11.102077mm"
-   viewBox="0 0 12.675662 11.102077"
+   width="12.473664mm"
+   height="12.473664mm"
+   viewBox="0 0 12.473664 12.473665"
    version="1.1"
    id="svg5"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="20.805229"
+     inkscape:cx="22.758701"
+     inkscape:cy="30.881659"
+     inkscape:window-width="3749"
+     inkscape:window-height="2085"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
   <defs
      id="defs2">
     <rect
@@ -18,30 +41,26 @@
        height="70.642738"
        id="rect11928" />
   </defs>
-  <g
-     id="layer1"
-     transform="translate(-85.74713,-62.571848)">
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.60781;stroke-opacity:1"
-       id="path34587"
-       cx="92.084961"
-       cy="68.122887"
-       rx="6.337831"
-       ry="5.5510387" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:dsrom10;-inkscape-font-specification:dsrom10;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="92.135506"
-       y="71.842369"
-       id="text5614"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:dsrom10;-inkscape-font-specification:dsrom10;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         x="92.135506"
-         y="71.842369"
-         id="tspan5616">M</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,32.537078,44.641958)"
-       id="text11926"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11928);fill:#000000;fill-opacity:1;stroke:none" />
-  </g>
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.639107;stroke-opacity:1"
+     id="path34587"
+     cx="6.2368321"
+     cy="6.2368321"
+     r="6.2368321" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.7178px;line-height:1.25;font-family:dsrom10;-inkscape-font-specification:dsrom10;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.267947"
+     x="6.1325498"
+     y="9.9785643"
+     id="text5614"
+     transform="scale(1.0127129,0.98744668)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:dsrom10;-inkscape-font-specification:dsrom10;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.267947"
+       x="6.1325498"
+       y="9.9785643"
+       id="tspan5616">M</tspan></text>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.27135336,0,0,0.26458333,-54.922627,-17.149633)"
+     id="text11926"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11928);fill:#000000;fill-opacity:1;stroke:none" />
 </svg>
