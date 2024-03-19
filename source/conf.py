@@ -60,6 +60,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 email_automode = True
 
+html_title = "Math Club Donostia"
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
