@@ -2,8 +2,10 @@
 Registration
 =====================
 
+.. _sec-register:
+
 If you are interested, please fill the |register|, providing your contact details and convenient time.
-You will be informed when the classes start.
+You will get email notifications on the activities. Please whitelist the email :email:`mathclubdonostia@gmail.com` to make sure the messages are not filtered to spam.
 
 There is no selection process,  everyone is welcome.
 Participation is free. But we hope for the help of volunteers to make this event unforgettable,

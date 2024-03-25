@@ -39,9 +39,8 @@ Teachers
 ++++++++
 
 Lead by :ref:`Stepan Tsirkin <sec-stepan>`, PhD in Physics, Ikerbasque Research Fellow at CFM.
-
 Other researchers scientific researchers may also join.
-
+THe project is fully based on volunreers. THe teachers participate at their
 If you feel capable consider becoming a teacher or teaching assistant : |register|
 
 Languages
@@ -61,10 +60,7 @@ Time and place
 
 Donostia International Physics Center (DIPC)  `map <https://maps.app.goo.gl/gQCwwBtMxdog811S8>`__
 
-First session will take place on Sunday, March 17th, from 11h to 14h.
-Further sessions will be announced via email to registered participants.
-
-Please whitelist the email :email:`mathclubdonostia@gmail.com` to make sure the messages are not filtered to spam.
+Day and time of each session will be announced via email to registered participants. Please :ref:`register  <sec-register>`.
 
 What we are not
 +++++++++++++++++

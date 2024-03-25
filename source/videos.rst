@@ -1,7 +1,19 @@
-Watch math on Youtube
-++++++++++++++++++++++
+Video Club
+++++++++++++
 
-If you like spending time watching youtube, here are some nice channels suggested by Roman,
+As part of the club meetings, we also watch some videos related
+to mathematics or science in general. The videos are suggested by the participants.
+
+First video club (March 23rd)
+------------------------------
+We watched videos about the `Cellular Automata <https://www.youtube.com/watch?v=xsLX390SJM4>`__
+and the `Cell Machine <https://www.youtube.com/watch?v=N-BbgqOjIqk>`__ game,
+played this game, using this `version <https://milenakos.itch.io/cmmm-plus-milenakos-mod>`__
+
+
+Other suggestions to watch
+---------------------------
+Here are some other nice channels suggested by Roman,
 related to mathematics or science in general:
 
 * `3Blue1Brown <https://www.youtube.com/@3blue1brown>`__
