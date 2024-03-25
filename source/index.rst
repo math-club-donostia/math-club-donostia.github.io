@@ -13,47 +13,53 @@ Introduction
 =====================
 
 
-What we aim to do
+What we do
 ++++++++++++++++++
 
-We plan to organize regular meetings (around 2 hours weekly) to solve tricky (olympiad-style) mathematical problems,
-talk about mathematics beyond the school program, etc. The difficulty level (and language, upon possibility)
-is adjusted individually to each participant.
+We organize regular meetings (around 2-3 hours weekly) to solve tricky (olympiad-style) mathematical problems,
+talk about mathematics beyond the school program, and also watch and discuss popular science :ref:`videos <sec-video>`.
+The difficulty level (and language, upon possibility) is adjusted individually to each participant.
+However, our main goal is not (only) to win an olympiad.
 
-When I was at my school age in Siberia I enjoyed participating in Olympiads in Mathematics and Physics.
-In Russia, enthusiastic teachers are gathering talented children in math clubs (usually held on weekends,
-and therefore called "Sunday [mathematical] schools". There are also summer mathematical camps implemented both
-on regional and national level. Some of such activities are also implemented in :ref:`Spain <sec-olyspain>`,
-but unfortunately not much in the Basque Country. So let's launch such activity.
-
-Our Goals are
+Our Goals
 ---------------
 
 * Have fun with math!
-* Develop creativity and non-standard thinking
+* show the kids the beauty of mathematics
+* develop creativity and non-standard thinking
 * Train for Mathematical olympiads
 * Create a community of curious kids
-
 
 Teachers
 ++++++++
 
 Lead by :ref:`Stepan Tsirkin <sec-stepan>`, PhD in Physics, Ikerbasque Research Fellow at CFM.
-Other researchers scientific researchers may also join.
-THe project is fully based on volunreers. THe teachers participate at their
+Other researchers scientific researchers also join.
+The project is fully based on volunreering. The teachers (including me) participate at their own initiative,
+apart from their main work, without extra payment.  Our motivation is to collaborate to create a unique environment
+for the benefit of our own children.
+
+Therefore we **encourage parents to also assist as teachers**. One does NOT need to be a professional mathematician,
+nor a scientist/engineer or anything like that, neither to have very deep mathematical knowledge.
+Just a bit of curiosity, some instructions from me and you are ready to go!
+If your children can solve these problems - you also can!
+
 If you feel capable consider becoming a teacher or teaching assistant : |register|
 
 Languages
 ++++++++++
 
-I speak English, Spanish, Russian and some German.
-Hopefully, some Basque-speaking teachers will join.
+The main languages are Spanish and English,
+Printouts are provided in Spanish, English and Russian.
+
+I also speak Russian and some German. Other teachers may speak other languages.
 We aim to build an international multi-language community.
 
 Age of participants
 +++++++++++++++++++++
 
-We mainly focus on the age group from 8 to 18, but slightly younger participants may also join.
+We accept children from 1st year of Primary education, up to (and including) Bachillerato. Younger children
+also may come, but we do not prepare anything specifically for them.
 
 Time and place
 +++++++++++++++

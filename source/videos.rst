@@ -1,6 +1,8 @@
 Video Club
 ++++++++++++
 
+.. _sec-video:
+
 As part of the club meetings, we also watch some videos related
 to mathematics or science in general. The videos are suggested by the participants.
 
