@@ -66,7 +66,9 @@ Time and place
 
 Donostia International Physics Center (DIPC)  `map <https://maps.app.goo.gl/gQCwwBtMxdog811S8>`__
 
-Day and time of each session will be announced via email to registered participants. Please :ref:`register  <sec-register>`.
+The next session is on March 30th, see time in the following `form <https://forms.gle/p5xYXnWK9HpPJrAH8>`__
+
+Day and time of further session will be announced via email to registered participants. Please :ref:`register  <sec-register>`.
 
 What we are not
 +++++++++++++++++
