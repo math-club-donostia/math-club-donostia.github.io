@@ -22,3 +22,4 @@ related to mathematics or science in general:
 * `Veritasium <https://www.youtube.com/@veritasium>`__
 * `Numberphile <https://www.youtube.com/@numberphile>`__
 * `Mathologer <https://www.youtube.com/@Mathologer>`__
+* `Morphocular <https://www.youtube.com/@morphocular>`__
