@@ -16,7 +16,7 @@ Introduction
 What we do
 ++++++++++++++++++
 
-We organize regular meetings (around 2-3 hours weekly) to solve tricky (olympiad-style) mathematical problems,
+We organize regular meetings (around 2-3 hours every weeekend) to solve tricky (olympiad-style) mathematical problems,
 talk about mathematics beyond the school program, and also watch and discuss popular science :ref:`videos <sec-video>`.
 The difficulty level (and language, upon possibility) is adjusted individually to each participant.
 However, our main goal is not (only) to win an olympiad.
@@ -44,7 +44,7 @@ nor a scientist/engineer or anything like that, neither to have very deep mathem
 Just a bit of curiosity, some instructions from me and you are ready to go!
 If your children can solve these problems - you also can!
 
-If you feel capable consider becoming a teacher or teaching assistant : |register|
+If you feel capable consider becoming a teacher or teaching assistant.
 
 Languages
 ++++++++++
@@ -66,14 +66,9 @@ Time and place
 
 Donostia International Physics Center (DIPC)  `map <https://maps.app.goo.gl/gQCwwBtMxdog811S8>`__
 
-The next session is on March 30th, see time in the following `form <https://forms.gle/p5xYXnWK9HpPJrAH8>`__
+The next session is on April 14th, see time in the following `form <https://forms.gle/4PaWXph4CjMcHcbk6>`__
 
-Day and time of further session will be announced via email to registered participants. Please :ref:`register  <sec-register>`.
-
-What we are not
-+++++++++++++++++
-
-We are NOT a math reinforcement class. We do not re-explain school math, we go beyond its limits.
+It is important to fill the form before every class. This helps us to prepare.
 
 Contact
 +++++++++
@@ -88,13 +83,9 @@ Index
    :maxdepth: 3
 
    self
-   registration
    olympiads
+   principles
    problems
    about_me
    videos
 
-
-
-
-.. |register|  replace:: `Registration form <https://docs.google.com/forms/d/e/1FAIpQLSew5SLLOYwAfc82yxMU3IjW1-LVp3_Dir9e3roSErbGXRT6Sg/viewform?usp=sf_link>`__
