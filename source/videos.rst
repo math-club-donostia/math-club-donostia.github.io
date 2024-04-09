@@ -32,3 +32,4 @@ related to mathematics or science in general:
 * `Numberphile <https://www.youtube.com/@numberphile>`__
 * `Mathologer <https://www.youtube.com/@Mathologer>`__
 * `Up and Atom <https://www.youtube.com/@upandatom>`__
+* `Morphocular <https://www.youtube.com/@morphocular>`__
