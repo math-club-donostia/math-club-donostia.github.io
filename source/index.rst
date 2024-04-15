@@ -85,5 +85,14 @@ Index
    videos
    about_me
    olympiads
-   principles
+
+
+.. image:: imag/logo-cfm.png
+   :height: 50px
+
+.. image:: imag/logo-ikerbasque.jpeg
+   :height: 50px
+
+.. image:: https://dipc.ehu.eus/logo.png
+   :height: 50px
 
