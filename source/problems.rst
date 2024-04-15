@@ -1,7 +1,17 @@
 Problems
 ++++++++++
 
-here are some resources to get mathematical problems
+
+Previous Sessions:
+------------------
+
+Problems from previous sessions may be downloaded `here <https://drive.google.com/drive/folders/1UkAafq7_joV-SmJkG_rl2XRLSvec-4Lz?usp=sharing>`__
+
+Other resources
+---------------
+
+Here are some resources to get mathematical problems. If you find anything interesting, you may bring them to discuss
+during the breaks
 
 * International Mathematical Olympiad (Highest level, for upper ages, all languages)   http://www.imo-official.org/problems.aspx?&column=year&order=desc&language=en
 

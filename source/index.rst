@@ -58,17 +58,14 @@ We aim to build an international multi-language community.
 Age of participants
 +++++++++++++++++++++
 
-We accept children from 1st year of Primary education, up to (and including) Bachillerato. Younger children
-also may come, but we do not prepare anything specifically for them.
+We welcome children from 1st year of Primary education, up to (and including) Bachillerato. Younger children
+also may come and ennjoy, although we do not prepare specifically for them.
 
 Time and place
 +++++++++++++++
 
 Donostia International Physics Center (DIPC)  `map <https://maps.app.goo.gl/gQCwwBtMxdog811S8>`__
-
-The next session is on April 14th, see time in the following `form <https://forms.gle/4PaWXph4CjMcHcbk6>`__
-
-It is important to fill the form before every class. This helps us to prepare.
+Usually on Sundays, see
 
 Contact
 +++++++++
