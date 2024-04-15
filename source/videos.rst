@@ -21,7 +21,11 @@ April 7th
 * `Four-color theorem <https://www.youtube.com/watch?v=42-ws3bkrKM&t=553s>`__
 * `Perfect Numbers <https://www.youtube.com/watch?v=Zrv1EDIqHkY>`__
 
+April 14th
+------------
 
+* `Exploring How Computers Work <https://www.youtube.com/watch?v=QZwneRb-zqA>`__
+* `Digital Logic Sim <https://sebastian.itch.io/digital-logic-sim>`__
 
 Other suggestions to watch
 ---------------------------

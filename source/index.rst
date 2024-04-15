@@ -65,7 +65,7 @@ Time and place
 +++++++++++++++
 
 Donostia International Physics Center (DIPC)  `map <https://maps.app.goo.gl/gQCwwBtMxdog811S8>`__
-Usually on Sundays, see
+Usually on Sundays, see :ref:`Next Sessions <sec-nextclass>`.
 
 Contact
 +++++++++
@@ -80,9 +80,10 @@ Index
    :maxdepth: 3
 
    self
+   nextclass
+   problems
+   videos
+   about_me
    olympiads
    principles
-   problems
-   about_me
-   videos
 
