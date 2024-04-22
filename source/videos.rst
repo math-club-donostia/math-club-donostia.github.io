@@ -21,11 +21,25 @@ April 7th
 * `Four-color theorem <https://www.youtube.com/watch?v=42-ws3bkrKM&t=553s>`__
 * `Perfect Numbers <https://www.youtube.com/watch?v=Zrv1EDIqHkY>`__
 
-April 14th
-------------
+April 14th - Digital Logic Sim
+--------------------------------
 
 * `Exploring How Computers Work <https://www.youtube.com/watch?v=QZwneRb-zqA>`__
 * `Digital Logic Sim <https://sebastian.itch.io/digital-logic-sim>`__
+
+April 21st - Construct3
+------------------------
+
+* Game making software: `Construct3 <https://www.construct.net/en>`__
+* Youtube video `channel <https://www.youtube.com/user/ScirraVideos>`__
+* Today's videos:
+  `1 <https://www.youtube.com/watch?v=iyhorKqsz4U&list=PLkraCCCVDpMLRO5Vd01ie8YgTqY4u_r-F>`__
+  `2 <https://www.youtube.com/watch?v=1WRUqIT_Fb8&list=PLkraCCCVDpMLRO5Vd01ie8YgTqY4u_r-F&index=3>`__
+  `3 <https://www.youtube.com/watch?v=7dHh8IBrUsQ&list=PLkraCCCVDpMLRO5Vd01ie8YgTqY4u_r-F&index=3>`__
+  `4 <https://www.youtube.com/watch?v=MP9HIHSGzJ0&list=PLkraCCCVDpMLRO5Vd01ie8YgTqY4u_r-F&index=4>`__
+  `5 <https://www.youtube.com/watch?v=6h2QL-x_guc&list=PL7GMuVXUsYnY9STk4BF0PxrtG_yNve1t6&index=8>`__
+  `6 <https://www.youtube.com/watch?v=SvAj2kmXtM8&list=PL7GMuVXUsYnY9STk4BF0PxrtG_yNve1t6&index=9>`__
+
 
 Other suggestions to watch
 ---------------------------
