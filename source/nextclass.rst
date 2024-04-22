@@ -4,13 +4,14 @@ Nearest Sessions
 .. _sec-nextclass:
 
 Each session is a separate event, accessible both to newcomers and those that attended previous sessions.
-It is important to **fill the form for every session** (see below. This helps us to prepare properly.
+It is important to **fill the form for every session** (see below). This helps us to prepare properly.
 If you are planning to come, but not completely sure, better fill form is advance, and later notify if you cannot come.
 
 Normally, it is on Sunday morning and Monday evening (see below), but please check this page later for updates.
 
 On Monday session we do not start a new topic, but reuse older problem lists. So please come, to complete those Sunday
-sessions that you missed (or if you could not attend any of them).
+sessions that you missed (or if you could not attend any of them). Those, who completed all problems from all previous
+sessions are also welcome, I will find something for you also.
 
 **April 28th (Sunday) - DIPC**
 ------------------------------
