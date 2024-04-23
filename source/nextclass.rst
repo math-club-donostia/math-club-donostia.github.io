@@ -41,3 +41,9 @@ sessions are also welcome, I will find something for you also.
 * **Place** : Centro de Fisica de Materiales (CFM), cafeteria, '-1' floor.
   `see map <https://maps.app.goo.gl/5jFTGGep36T4hFbk6>`__. Paseo Manuel de Lardizabal **5**, 20018 Donostia,
 
+Waiting list
++++++++++++++
+
+If the time is not convenient to you, or you live far from Donostia, please fill a
+`waiting list form <https://forms.gle/iEygggCoy1hACy5C6>`__ , eventually we may create a group in a different time or
+in a different place. Probably in a different town of Gipuzkoa.
