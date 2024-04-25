@@ -72,6 +72,8 @@ Contact
 
 :email:`mathclubdonostia@gmail.com`
 
+Subscribe for mailing list:
+`http://list.ehu.eus/mailman/listinfo/mathclub <http://list.ehu.eus/mailman/listinfo/mathclub>`__
 
 Index
 ++++++
