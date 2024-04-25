@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-python@v3
       - name: Install dependencies
         run: |
-          pip install sphinx sphinx_rtd_theme sphinx-pyreverse sphinx_sitemap sphinxcontrib-email
+          pip install sphinx sphinx_rtd_theme sphinx-pyreverse sphinx_sitemap sphinxcontrib-email sphinx-reredirects
       - name: Sphinx build
         run: |
           sphinx-build source _build

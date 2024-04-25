@@ -33,11 +33,14 @@ numfig = True
 extensions = [
     'sphinx.ext.autodoc', 'sphinx.ext.mathjax', 'sphinx.ext.intersphinx',
     'sphinx.ext.viewcode', 'sphinx_pyreverse' , 'sphinx_sitemap' , 'sphinx.ext.napoleon',
-    'sphinxcontrib.email',
+    'sphinxcontrib.email', 'sphinx_reredirects'
 #    'sphinxcontrib.bibtex'
 #    'nbsphinx',
 ]
 
+redirects = {
+    "*": "https://math.dipc.org/$source.php"
+}
 #latex_elements = {
 # 'preamble': r'''
 #     \usepackage{hyperref,doi}
