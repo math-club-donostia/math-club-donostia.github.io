@@ -39,7 +39,7 @@ extensions = [
 ]
 
 redirects = {
-    "*": "https://math.dipc.org/$source.php"
+    "*": "https://math.dipc.org/"
 }
 #latex_elements = {
 # 'preamble': r'''
